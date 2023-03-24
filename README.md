@@ -1,5 +1,9 @@
 APT-SDNdataset is a dataset for APT attacks on SDN network.
 
+Find the details of the dataset on our published paper "Enhanced Scanning in SDN Networks and its Detection using Machine Learning" on 2022 IEEE 4th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA)
+https://ieeexplore.ieee.org/abstract/document/10063543
+
+
 APT-SDNmap (https://github.com/APT-SDNmap) is used here to launch attacks in a network using mininet. Hosts (one of them is infected by APT-SDNmap and launched attacks), OVS switch and SDN controller. Ostinato (https://ostinato.org/) is used to generate the normal traffic over different network protocols (ex. TCP, UDP, ICMP, IGMP, and ARP).
 There are 3 versions of the dataset here (4 hosts, 8 hosts and 16 hosts).
 All network scenarios and attacks are implemented by the same way and the defference is the size of the network.
