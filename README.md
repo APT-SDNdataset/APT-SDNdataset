@@ -32,10 +32,7 @@ IGMP: IGMP or not,
 ARP: ARP or not,
 label: attack or normal
 
-# Dataset details:
-Find all details of the dataset on our published paper ( in License section)
-
-# License:
-The APT-SDNdataset consists of three CSV files of labeled network flows and publicly available for researchers. If you are using the dataset, you need to cite our related paper that contains all details of the dataset:
+# Dataset details and lincense:
+Find all details of the dataset on our published paper. If you are using the dataset, you need to cite our paper:
 Abdullah H Alqahtani, John A clark, "Enhanced Scanning in SDN Networks and its Detection using Machine Learning", IEEE 4th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA), USA, December 2022 
 
